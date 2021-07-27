@@ -1,8 +1,6 @@
 #Project Description
 This is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MYSQL, and Postman
 
-[Download Assignment Here](PPFSQL-Homwork.pdf)
-[view Assignment Video Here]()
 
 #Postman Screenshot
 
@@ -11,3 +9,5 @@ This is a homework assignment to teach how to get Pycharm setup with Docker, Fla
 #SQL Data Screenshot
 
 ![pycharm data query](screenshots/query.png)
+
+[Download Assignment Here](IS601_HW5_VIDHI.pdf)
