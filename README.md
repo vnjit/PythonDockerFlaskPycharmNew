@@ -12,4 +12,4 @@ This is a homework assignment to teach how to get Pycharm setup with Docker, Fla
 
 [Download Assignment Here](IS601_HW5_VIDHI.pdf)
 
-[Download Postman Record Data here](IS601_project3_VIDHI_word.pdf)
+[Download Postman Record Data here](IS601_Project3_VIDHI_word.pdf)
